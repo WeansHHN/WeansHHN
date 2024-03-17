@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ninh (Weans)</h1>
+<h1 align="center">Hi 👋, I'm Ninh (Weans) <img src="https://github.com/WeansHHN/WeansHHN/blob/main/image.gif?raw=true" alt="weanshhn" width="40" height="40"/></h1>
 <h3 align="center">I am not a Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weanshhn&label=Profile%20views&color=0e75b6&style=flat" alt="weanshhn" /> </p>
