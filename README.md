@@ -9,6 +9,11 @@
 - 📫 Contact me via email **haininh7711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.facebook.com/weansios"><i class="fab fa-facebook"></i></a>
+                            <a href="https://www.youtube.com/@hhnios5013"><i class="fab fa-youtube"></i></a>
+                            <a href="https://github.com/WeansHHN"><i class="fab fa-github"></i></a>
+                            <a href="https://twitter.com/@hhnios_weans"><i class="fab fa-twitter"></i></a>
+                            <a href="https://t.me/Weans_HHN"><i class="fab fa-telegram"></i></a>
 <p align="left">
 </p>
 
