@@ -1,23 +1,55 @@
+<!-- Banner / Header -->
+<h1 align="center">
+  Yo 👋, I'm Ninh (Weans)
+  <img src="https://github.com/WeansHHN/weanshhn.github.io/blob/main/img/gif/gifwaifu.gif?raw=true" width="45"/>
+</h1>
 
-
-
-<h1 align="center">Hi 👋, I'm Ninh (Weans) <img src="https://github.com/WeansHHN/weanshhn.github.io/blob/main/img/gif/gifwaifu.gif?raw=true" alt="weanshhn" width="40" height="40"/></h1>
-<h3 align="center">I am not a Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weanshhn&label=Profile%20views&color=0e75b6&style=flat" alt="weanshhn" /> </p>
-
-- 📝 My Website [hhnios.github.io](https://hhnios.github.io/)
-
-- 📫 Contact me via email **haininh7711@gmail.com**
-
-- 📝 Youtube [HHNiOS | Weans](https://youtube.com/@hhnios5013?si=qVh_HP0w-B5Bzsky)
-<p align="left">
+<p align="center">
+  <b>Just a guy who loves tech but still says “I'm not a developer” 🤡</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=weanshhn&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weanshhn&show_icons=true&locale=en&layout=compact" alt="weanshhn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weanshhn&show_icons=true&locale=en" alt="weanshhn" /></p>
+## 🌐 **Socials**
+- 🌍 Website: **[hhnios.github.io](https://hhnios.github.io/)**
+- 📧 Email: **haininh7711@gmail.com**
+- ▶️ YouTube: **[HHNiOS | Weans](https://youtube.com/@hhnios5013?si=qVh_HP0w-B5Bzsky)**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weanshhn&" alt="weanshhn" /></p>
+---
+
+## 🛠️ **Tech Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,css,git,html,js,linux,apple,swift" height="48" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weanshhn&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weanshhn&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=weanshhn&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160"/>
+</p>
+
+---
+
+## ✨ **About Me (Short Version)**
+- 🧪 Thích mày mò tool, tweak, iOS dev stuff.  
+- 💻 Dù bảo “không phải developer”, nhưng code vẫn đều đều 😭  
+- 🎧 Thường online mấy giờ random, vibe tùy mood.  
+- 🔥 Thích cái gì là làm tới công chuyện luôn.  
+
+---
+
+## 🐣 **Fun fact**
+> Sửa bug nhanh hơn trả tin nhắn.  
