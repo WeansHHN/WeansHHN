@@ -8,6 +8,8 @@
 - 📝 My Website [hhnios.github.io](https://hhnios.github.io/)
 
 - 📫 Contact me via email **haininh7711@gmail.com**
+
+- 📝 Youtube [HHNiOS | Weans](https://youtube.com/@hhnios5013?si=qVh_HP0w-B5Bzsky)
 <p align="left">
 </p>
 
