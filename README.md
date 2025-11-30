@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Just a guy who loves tech but still says “I'm not a developer” 🤡</b>
+  <b>“I'm not a developer”</b>
 </p>
 
 <p align="center">
