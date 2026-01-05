@@ -41,7 +41,6 @@
 
 ## ✨ **About Me (Short Version)**
 - 🧪 Thích mày mò tool, tweak, iOS dev stuff.  
-- 💻 Dù bảo “không phải developer”, nhưng code vẫn đều đều 😭  
 - 🎧 Thường online mấy giờ random, vibe tùy mood.  
 - 🔥 Thích cái gì là làm tới công chuyện hẹ hẹ hẹ.  
 
