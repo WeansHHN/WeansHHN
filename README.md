@@ -46,4 +46,4 @@
 ---
 
 ## 🐣 **Fun fact**
-> Sửa bug nhanh hơn trả tin nhắn.  
+> Sửa bug nhanh hơn rep tin nhắn :))))))  
